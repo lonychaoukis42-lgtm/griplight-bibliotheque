@@ -1,0 +1,7 @@
+Une partie des fiches de projecteurs de src/data/library/fixtures.json (entrées marquées "s":"qlc",
+et des modes ajoutés à des fiches de l'Open Fixture Library) vient des définitions de projecteurs de
+Q Light Controller Plus (QLC+), https://github.com/mcallegari/qlcplus, dossier resources/fixtures,
+sous licence Apache-2.0 (texte complet : LICENCE-QLCPLUS.txt).
+
+Modifications : les fiches .qxf ont été converties et réduites par tools/importer-bibliotheque.mjs
+(nom, fabricant, catégorie, angle du faisceau, et pour chaque mode la liste des canaux avec leur rôle).

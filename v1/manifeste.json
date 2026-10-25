@@ -1,0 +1,13 @@
+{
+ "format": "griplight-manifeste",
+ "version": 1,
+ "bibliotheque": "2026.10.25-1",
+ "date": "2026-10-25",
+ "nb": 2282,
+ "index": {
+  "chemin": "index.json",
+  "sha256": "2eddfd866e168881c6c8b2f16275b7d5003e90d5574e3d4b588e709e7a0c0aeb",
+  "taille": 568843
+ },
+ "signature": "VNGbIWWdE94whfRkt7n7oO6k77FGGoAxJIy+40nmERBMReJDPf0Nb30+NUn0do+Jj2GPInRKJy/qbAjVLSFRBQ=="
+}
